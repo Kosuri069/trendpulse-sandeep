@@ -1,0 +1,42 @@
+TrendPulse Analysis Summary
+========================================
+
+Total cleaned stories: 107
+Average score: 150.50
+Median score: 82.00
+Average comments: 72.56
+Median comments: 28.00
+
+Category Summary:
+     category  total_posts  avg_score  avg_comments  max_score  max_comments
+entertainment           25     161.72         81.12       1398           672
+    worldnews           25     142.08         86.48        506           367
+   technology           25     151.88         59.36        645           387
+       sports           19     130.79         59.37        625           278
+      science           13     171.23         74.00        642           326
+
+Top Authors:
+         author  total_posts  total_score  avg_score
+      bookofjoe            3          146      48.67
+         speckx            2          900     450.00
+      paulhoule            2          744     372.00
+        maouida            2          317     158.50
+        mooreds            2           87      43.50
+ jumpcrisscross            2           85      42.50
+normanvalentine            1         1398    1398.00
+        rrreese            1          645     645.00
+  iceberger2001            1          625     625.00
+         anon84            1          581     581.00
+
+Top Stories:
+ post_id                                                                            title      category          author  score  num_comments
+47724352                                               Filing the corners off my MacBooks entertainment normanvalentine   1398           672
+47762864                                       Backblaze has stopped backing up your data    technology         rrreese    645           387
+47708818                                          Native Instant Space Switching on macOS       science       paulhoule    642           326
+47704804                              How NASA built Artemis II’s fault-tolerant computer       science          speckx    638           235
+47698455        Starfling: A one-tap endless orbital slingshot game in a single HTML file        sports   iceberger2001    625           152
+47733217                                Exploiting the most prominent AI agent benchmarks    technology          anon84    581           140
+47742200                  Show HN: boringBar – a taskbar-style dock replacement for macOS entertainment            a-ve    510           293
+47728653 France's government is ditching Windows for Linux, says US tech a strategic risk     worldnews           pabs3    506           301
+47727960                     Show HN: Pardonned.com – A searchable database of US Pardons entertainment       vidluther    497           272
+47750872                                              Servo is now available on crates.io    technology            ffin    462           147
